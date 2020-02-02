@@ -20,4 +20,4 @@ Put your code repository in src folder
 We follow a classic REST URL convention, as you can see below.
 
 # Run Server
-    By default, the application will be listening on port 3000 and simply open a web browser to `http://<server>/:8080`
+    By default, the application will be listening on port 3000 and simply open a web browser to `http://<server>/:3000`
